@@ -1,0 +1,1 @@
+ini file cuma parodiin pull dari sebuah repository( mengambil data online dari github apabila ada teman yang menambahkan file baru di projekan kita

@@ -1,0 +1,5 @@
+
+
+1. git fetch --all                                      <== mengambil semua perubahan dari GitHub
+2.git branch -r                                      <== melihat branch remote
+3. git checkout -b namaBranch origin/namaBranch         <== membuat branch lokal dari branch remote

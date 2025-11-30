@@ -1,0 +1,9 @@
+git fetch origin
+git reset --hard origin/master
+
+Penjelasan:
+git fetch origin        => Mengambil commit terbaru dari GitHub tanpa mengubah file lokal.
+
+git reset --hard origin/master      => Menghapus perubahan lokal dan membuat branch lokal sama persis dengan GitHub.
+
+
